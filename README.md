@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning...something
+### 🌱 I’m currently learning C#
 
 <!--
 **MegaGV/MegaGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
