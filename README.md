@@ -1,5 +1,6 @@
 ### 🌱 I’m currently learning Godot
-### There are so many works to do...
+### Maybe want to make a game, or not
+### Don't know what I really want to do now...
 
 <!--
 **MegaGV/MegaGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
