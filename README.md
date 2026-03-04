@@ -1,6 +1,15 @@
+# 🍀 About Me:
+
+    _________ .__           
+    \_   ___ \|  |__  __ __ 
+    /    \  \/|  |  \|  |  \
+    \     \___|   Y  \  |  /
+     \______  /___|  /____/ 
+            \/     \/       
+
+### 👓 A software engineer probably.
 ### 🌱 I’m currently learning Godot
-### Maybe want to make a game, or not
-### Don't know what I really want to do now...
+### 🎮 Dreaming of creating my own game series
 
 <!--
 **MegaGV/MegaGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
